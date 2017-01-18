@@ -1,0 +1,17 @@
+{
+    "name": "gnar-php/laravel-request-entity",
+    "description": "Request entity for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nate Lantz",
+            "email": "mrnatelantz@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "illuminate/validation": "^5.3",
+        "symfony/translation": "^3.1"
+    }
+}
